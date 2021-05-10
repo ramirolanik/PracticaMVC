@@ -1,0 +1,15 @@
+C:\Users\Ramiro\source\repos\Practica.EF\ClassLibrary1.Data\bin\Debug\ClassLibrary1.Data.dll.config
+C:\Users\Ramiro\source\repos\Practica.EF\ClassLibrary1.Data\bin\Debug\ClassLibrary1.Data.dll
+C:\Users\Ramiro\source\repos\Practica.EF\ClassLibrary1.Data\bin\Debug\ClassLibrary1.Data.pdb
+C:\Users\Ramiro\source\repos\Practica.EF\ClassLibrary1.Data\bin\Debug\ClassLibrary1.Entities.dll
+C:\Users\Ramiro\source\repos\Practica.EF\ClassLibrary1.Data\bin\Debug\EntityFramework.dll
+C:\Users\Ramiro\source\repos\Practica.EF\ClassLibrary1.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ramiro\source\repos\Practica.EF\ClassLibrary1.Data\bin\Debug\ClassLibrary1.Entities.pdb
+C:\Users\Ramiro\source\repos\Practica.EF\ClassLibrary1.Data\bin\Debug\ClassLibrary1.Entities.dll.config
+C:\Users\Ramiro\source\repos\Practica.EF\ClassLibrary1.Data\bin\Debug\EntityFramework.xml
+C:\Users\Ramiro\source\repos\Practica.EF\ClassLibrary1.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ramiro\source\repos\Practica.EF\ClassLibrary1.Data\obj\Debug\ClassLibrary1.Data.csprojAssemblyReference.cache
+C:\Users\Ramiro\source\repos\Practica.EF\ClassLibrary1.Data\obj\Debug\ClassLibrary1.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\source\repos\Practica.EF\ClassLibrary1.Data\obj\Debug\ClassLibrary1.Data.csproj.CopyComplete
+C:\Users\Ramiro\source\repos\Practica.EF\ClassLibrary1.Data\obj\Debug\ClassLibrary1.Data.dll
+C:\Users\Ramiro\source\repos\Practica.EF\ClassLibrary1.Data\obj\Debug\ClassLibrary1.Data.pdb

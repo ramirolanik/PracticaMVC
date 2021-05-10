@@ -1,0 +1,30 @@
+﻿@model List<ClassLibrary1.MVC.Models.CustomersView>
+
+
+@{
+    ViewBag.Tittle = "Customers Page";
+}
+
+<h1> Lista de Customers </h1>
+
+<table class="table-responsive">
+
+    <tr>
+        <td>Contact ID</td>
+        <td>Company Name</td>
+        <td>Contact Name</td>
+    </tr>
+
+    @foreach (var customers in Model)
+    {
+<tr>
+        <td>@customers.CustomerID</td>
+        <td>@customers.CompanyName</td>
+        <td>@customers.ContactName</td>
+</tr>
+    }
+    </table>
+
+    <div>
+        @Html.ActionLink("Insertar nuevo Customer", "insert","Customers")
+    </div>

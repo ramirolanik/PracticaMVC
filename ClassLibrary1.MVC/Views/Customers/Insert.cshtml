@@ -1,0 +1,17 @@
+﻿@model ClassLibrary1.MVC.Models.CustomersView
+@{
+    ViewBag.Tittle = "Customers Page";
+}
+
+<h1>Vista para insertar </h1>
+
+@using (Html.BeginForm("Insert", "Customers", FormMethod.Post))
+{
+    <label>CustomerID:  </label> @Html.TextBoxFor(r => r.CustomerID)
+    <label>Company Name:  </label> @Html.TextBoxFor(r => r.CompanyName)
+    <label>Contact Name:  </label> @Html.TextBoxFor(r => r.ContactName)
+
+
+    <input type="submit" class="btn btn-success" value="Guardar" />
+
+}
